@@ -77,3 +77,4 @@ A detailed classification report is generated showing precision, recall, F1-scor
 ## Conclusion
 
 This project demonstrates how a simple CNN can be used to classify images of handwritten digits. The model performs well on both validation and test data, making it suitable for digit recognition tasks.
+ 
