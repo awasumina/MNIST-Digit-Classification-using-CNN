@@ -74,31 +74,6 @@ A confusion matrix is generated to analyze the model’s performance across diff
 ### Classification Report
 A detailed classification report is generated showing precision, recall, F1-score, and support for each class.
 
-## Installation
-
-### Requirements
-- Python 3.x
-- TensorFlow 2.x
-- Keras
-- Numpy
-- Matplotlib
-- Seaborn
-- scikit-learn
-
-### Steps to Run the Project
-1. Clone the repository.
-   ```bash
-   git clone https://github.com/your-repo/mnist-digit-classification.git
-   ```
-2. Install the required dependencies.
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the code.
-   ```bash
-   python mnist_classification.py
-   ```
-
 ## Conclusion
 
 This project demonstrates how a simple CNN can be used to classify images of handwritten digits. The model performs well on both validation and test data, making it suitable for digit recognition tasks.
